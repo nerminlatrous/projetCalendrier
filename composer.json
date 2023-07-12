@@ -1,0 +1,17 @@
+{
+    "name": "latro/projet-calendrier",
+    "autoload": {
+        "psr-4": {
+            "Calendar\\": "src/Calendar",
+            "App\\": "src/App"
+
+        }
+    },
+    "authors": [
+        {
+            "name": "nermin",
+            "email": "nerminelatrous@gmail.com"
+        }
+    ],
+    "require": {}
+}
